@@ -1,0 +1,16 @@
+Comparar las ventas deflactadas por grupos de artículos, para diferentes períodos de tiempo 
+(con crecimiento económico versus contracción económica o incluso período de Pandemia Covid-19 (2020-2021) 
+versus pre-pandemia (2019 por ejemplo) y pos-pandemia (2022 por ejemplo) 
+(testeando diferencia de medias de ventas entre período. Comparar las tendencias, las estacionalidades y los ciclos de los 
+diferentes rubros de artículos vendidos. Ver la posibilidad de aplicar predicciones a futuro en las distintas categorías, 
+basadas en la propia serie de ventas (usando las tendencia, ciclos, estacionalidades detectadas previamente) utilizando 
+modelo de regresión auto-regresivo visto en clase (con tendencia y estacionalidad). 
+No olvidar modelar el evento de "Pandemia Covid" con variables binarias.
+
+
+IDEAS A IMPLEMENTAR:
+- Tendencia para todas las categorias
+- Ver si hay forma de representar que categoria representa mas % al total
+- Aplicar filtro HP para los ciclos
+- Extirar el modelo predictivo a mas meses, y para cada categorias
+- Estudiar autocorrelaccion para cada categoria
