@@ -10,7 +10,8 @@ No olvidar modelar el evento de "Pandemia Covid" con variables binarias.
 
 IDEAS A IMPLEMENTAR:
 - Tendencia para todas las categorias (HECHO)
-- Ver si hay forma de representar que categoria representa mas % al total
-- Aplicar filtro HP para los ciclos 
-- Extirar el modelo predictivo a mas meses, y para cada categorias
+- Ver si hay forma de representar que categoria representa mas % al total 
+- Aplicar filtro HP para los ciclos (EN PRCOESO - FALTA CONFIRMAR IDEAS)
+- Extirar el modelo predictivo a mas meses, y para cada categorias (HECHO, FALTA APLICAR A TODAS LAS VAR)
 - Estudiar autocorrelaccion para cada categoria
+
